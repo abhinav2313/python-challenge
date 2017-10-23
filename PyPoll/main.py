@@ -6,7 +6,7 @@ raw_data = []
 vote_dict = dict()
 vote_dict = collections.defaultdict(list)
 winner_dict=dict()
-
+winners = []
 """Opening raw data file """
 with open(file_path,'r') as csvfile:
     csv_reader = csv.reader(csvfile,delimiter=',')
@@ -28,6 +28,6 @@ for key,value in vote_dict.items():
     winner_dict[key] = len(value)
 for key, value in sorted(winner_dict.iteritems(), key=lambda (k,v): (v,k)):
     print "%s: %s" % (key, value)
-
+    winners.append(key)
 print("-----------------------")
-print("Winner: "+str(sorted(winner_dict.iteritems(), key=lambda (k,v): (v,k))[-1]))
+print("Winner: "+str(winners[-1]))
