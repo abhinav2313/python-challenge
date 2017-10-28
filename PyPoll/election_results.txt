@@ -1,0 +1,15 @@
+Printing out the results
+Election Results
+----------------------
+Total votes: 3,521,001
+----------------------
+No of votes for: Khan(63%) --> 2,218,231
+No of votes for: O'Tooley(2%) --> 105,630
+No of votes for: Correy(19%) --> 704,200
+No of votes for: Li(13%) --> 492,940
+O'Tooley: 105630
+Li: 492940
+Correy: 704200
+Khan: 2218231
+-----------------------
+Winner: Khan
