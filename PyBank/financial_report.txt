@@ -4,10 +4,11 @@ Number of months (1):: 41
 Total revenue (1):: $18,971,412.00
 Average change in revenue (1):: $-6,758.98
 Greatest Increase in Revenue (1):: Feb-16 $1,837,235.00
-Greatest Decrease in Revenue (1):: Aug-14 $-1,779,747.00Printing out second data set report
+Greatest Decrease in Revenue (1):: Aug-14 $-1,779,747.00
+Printing out second data set report
 --------------------------Second Data Set Report-------------------------------
 Number of months (2):: 86
 Total revenue (2):: $36,973,911.00
 Average change in revenue (2):: $-5,955.31
-Greatest Increase in Revenue (2):: Jul-2014 $1,645,140.00
-Greatest Decrease in Revenue (2):: Jun-2014 $-1,947,745.00
+Greatest Increase in Revenue (2):: Jul-14 $1,645,140.00
+Greatest Decrease in Revenue (2):: Jun-14 $-1,947,745.00
